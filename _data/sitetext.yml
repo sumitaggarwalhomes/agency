@@ -11,10 +11,11 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Sumit Aggarwal Homes
+    text: Find your dream home
     button: Tell Me More
     buttonlink: "#services"
+    <iframe style="width: 960px; height:300px;" src="https://sumitaggarwal.exprealty.com/wide.php" allowtransparency="true" frameBorder="0"> </iframe>
 
   services:
     title: "Services"
